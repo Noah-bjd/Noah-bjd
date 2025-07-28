@@ -1,16 +1,30 @@
-## Hi there 👋
+# **✨ Nouhaila's Digital Universe ✨**  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-000?style=flat&logo=blazor&logoColor=white" />
+</p>
 
-<!--
-**Noah-bjd/Noah-bjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid  
+journey  
+    title My 2024 Developer Journey  
+    section Learn  
+      Master React: 5: Me  
+      Explore AI/ML: 3: Me  
+    section Build  
+      Launch 3 Projects: 4: Me  
+      Contribute to OSS: 2: Me  
+    section Grow  
+      Network: 4: Me  
+      Blog: 3: Me  
+```
+---
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=nouhailab&show_icons=true&theme=graywhite&hide_border=true&text_color=000&title_color=000)
+</div>
+ 
