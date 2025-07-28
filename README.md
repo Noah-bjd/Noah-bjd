@@ -25,6 +25,7 @@ journey
 ---
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=nouhailab&show_icons=true&theme=graywhite&hide_border=true&text_color=000&title_color=000)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Noah-bjd&show_icons=true&theme=graywhite&hide_border=true&text_color=000&title_color=000)
 </div>
- 
+
+ --- 
