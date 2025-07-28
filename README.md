@@ -1,4 +1,4 @@
-# **✨ Nouhaila's Digital Universe ✨**  
+# **✨ Noah's Digital Universe ✨**  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white" />
@@ -23,9 +23,3 @@ journey
       Blog: 3: Me  
 ```
 ---
-<div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Noah-bjd&show_icons=true&theme=graywhite&hide_border=true&text_color=000&title_color=000)
-</div>
-
- --- 
