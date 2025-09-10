@@ -23,3 +23,6 @@ journey
       Blog: 3: Me  
 ```
 ---
+
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tka24otavsjktemcnrus7dpkne&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tka24otavsjktemcnrus7dpkne&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)]]
