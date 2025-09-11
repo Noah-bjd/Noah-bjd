@@ -1,4 +1,3 @@
-<img align="left" src="https://github.com/noah.png" width="150" height="150" style="border-radius:50%; margin-bottom:10rem;" />
 
 **Currently jamming to:** <br>
 <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tka24otavsjktemcnrus7dpkne&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tka24otavsjktemcnrus7dpkne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="300">
